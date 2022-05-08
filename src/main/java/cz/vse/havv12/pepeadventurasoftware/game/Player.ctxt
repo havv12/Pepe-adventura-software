@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ postavu\ hr\u00E1\u010De,\ tedy\ Pepeho.\ \r\n\ Dr\u017Ei\ si\ odkaz\ na\ Pepeho\ pozornost\ a\ invent\u00E1\u0159.\ \r\n\ D\u00E1le\ je\ zde\ ulo\u017Eena\ prom\u011Bn\u00E1\ pen\u00EDze.\r\n\ \r\n\ @author\ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-09\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Konstruktor,\ p\u0159i\ vytvo\u0159en\u00ED\ hr\u00E1\u010De\ vytvo\u0159\u00ED\ invent\u00E1\u0159,m\u011B\u0159i\u010D\ pozornosti\ a\ nastav\u00ED\ jejich\ parametry.\ \r\n\ Tak\u00E9\ nastav\u00ED\ prom\u011Bnou\ pen\u00EDze\ na\ 0.\r\n
+comment2.params=
+comment2.target=HealthBar\ getHealthBar()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ instaci\ t\u0159\u00EDdy\ healthBar.\r\n\ \r\n\ @return\ healthBar\r\n
+comment3.params=
+comment3.target=Inventory\ getInventory()
+comment3.text=\r\n\ Metoda\ vrac\u00ED\ instaci\ t\u0159\u00EDdy\ inventory.\r\n\ \r\n\ @return\ inventory\r\n
+comment4.params=cash
+comment4.target=void\ changeMoney(int)
+comment4.text=\r\n\ Metoda\ zaji\u0161\u0165uje\ zm\u011Bnu\ po\u010Dtu\ pen\u011Bz\ jak\ do\ plusu\ tak\ do\ m\u00EDnusu.\r\n\ \r\n\ @param\ \u010D\u00E1stka\ o\ kterou\ se\ zm\u011Bn\u00ED\ po\u010Det\ pen\u011Bz\ i\ se\ znam\u00E9nkem\r\n
+comment5.params=
+comment5.target=int\ getMoney()
+comment5.text=\r\n\ Metoda\ vrac\u00ED\ aktu\u00E1ln\u00ED\ po\u010Det\ pen\u011Bz.\r\n\ \r\n\ @return\ po\u010Det\ pen\u011Bz\r\n
+numComments=6

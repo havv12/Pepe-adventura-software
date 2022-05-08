@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\r\n\ T\u0159\u00EDda\ slou\u017E\u00EDc\u00ED\ k\ uchov\u00E1v\u00E1n\u00ED\ p\u0159edm\u011Bt\u016F\ v\ poli.\r\n\ Z\u00E1rove\u0148?\ je\ zde\ ulo\u017Een\ po\u010Det\ dr\u017Een\u00FDch\ p\u0159edm\u011Bt\u016F.\r\n\ \r\n\ @author\ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-09\r\n
+comment1.params=size
+comment1.target=Inventory(int)
+comment1.text=\r\n\ Konstruktor\ vytv\u00E1\u0159\u00ED\ pole\ inv,\ do\ kter\u00E9ho\ se\ budou\ ukl\u00E1dat\ p\u0159edm\u011Bty.\r\n\ Nastavuje\ po\u010Det\ p\u0159edm\u011Bt\u016F\ na\ 0.\r\n
+comment2.params=item
+comment2.target=boolean\ add(Item.Item)
+comment2.text=\r\n\ Metoda\ slou\u017E\u00EDci\ pro\ p\u0159id\u00E1n\u00ED\ p\u0159edm\u011Btu.\r\n\ \r\n\ @return\ {@code\ true}\ pokud\ byl\ p\u0159id\u00E1n\ p\u0159edm\u011Bt;\ {@code\ false}\ pokud\ p\u0159edm\u011Bt\ p\u0159id\u00E1n\ nebyl;\r\n\ @param\ instance\ p\u0159edm\u011Btu\r\n
+comment3.params=
+comment3.target=void\ itemsInInventory()
+comment3.text=\r\n\ Metoda\ vypisuje\ po\u010Det\ p\u0159edm\u011Bt\u016F\ invent\u00E1\u0159i\ a\ jejich\ jm\u00E9na.\r\n\ \r\n
+comment4.params=item
+comment4.target=java.lang.String\ removeItem(Item.Item)
+comment4.text=\r\n\ Metoda\ slou\u017E\u00ED\ k\ odebr\u00E1n\u00ED\ p\u0159edm\u011Btu\ v\ invent\u00E1\u0159i;\r\n\ \r\n\ \r\n\ @param\ isntance\ p\u0159edm\u011Btu\r\n\ @return\ metoda\ vyp\u00ED\u0161e\ n\u00E1zev\ p\u0159edm\u011Btu,\ pokud\ byl\ p\u0159edm\u011Bt\ odebr\u00E1n\r\n\ @return\ pokud\ p\u0159edm\u011Bt\ nen\u00ED\ v\ invent\u00E1\u0159i\ vyp\u00ED\u0161e\ se,\ \u017Ee\ p\u0159edm\u011Bt\ nen\u00ED\ v\ invent\u00E1\u0159i\r\n
+comment5.params=
+comment5.target=Inventory\ getInventory()
+comment5.text=\r\n\ Metoda\ vrac\u00ED\ instanci\ invent\u00E1\u0159e.\r\n\ \r\n\ @return\ instance\ invent\u00E1\u0159e\r\n
+comment6.params=
+comment6.target=Item.Item[]\ getInv()
+comment6.text=\r\n\ Metoda\ vrac\u00ED\ pole\ invent\u00E1\u0159e.\r\n\ \r\n\ return\ pole\ invent\u00E1\u0159e\r\n
+numComments=7

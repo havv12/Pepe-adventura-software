@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mum
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ Pepeho\ m\u00E1mu\ v\ adventu\u0159e.\r\n\ Dr\u017Ei\ si\ odkaz\ na\ hru.\ \r\n\ D\u00E1le\ m\u00E1\ atributy\ {@link\ \#name},\ ve\ kter\u00E9m\ je\ ulo\u017Eeno\ jej\u00ED\ jm\u00E9no\ a\ {@link\ \#hasMoney},\ ve\ kter\u00E9m\ se\ uk\u00E1ld\u00E1\ zda\ je\ mo\u017En\u00E9\ od\ n\u00ED\ je\u0161t\u011B\ dostat\ pen\u00EDze.\r\n\r\n\ @author\ \ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-08\r\n
+comment1.params=name\ pepe
+comment1.target=Mum(java.lang.String,\ game.Player)
+comment1.text=\r\n\ Konstruktor\ vytvo\u0159\u00ED\ instanci\ m\u00E1my\ a\ nastav\u00ED\ j\u00ED\ jm\u00E9no,\ p\u0159id\u00E1\ j\u00ED\ odkaz\ na\ instanci\ t\u0159\u00EDdy\ game.\ \r\n\ Tak\u00E9\ nastav\u00ED,\ \u017Ee\ je\ mo\u017En\u00E9\ od\ m\u00E1my\ dostat\ pen\u00EDze.\r\n
+comment2.params=
+comment2.target=java.lang.String\ onTalk()
+comment2.text=\r\n\ Metoda\ umo\u017E\u0148uje\ hr\u00E1\u010Di\ mluvit\ s\ m\u00E1mou.\r\n\ \r\n\ @return\ "M\u00E1ma\ ti\ dala\ 100K\u010D",\ pokud\ je\ mo\u017En\u00E9\ od\ n\u00ED\ pen\u00EDze\ dostat\r\n\ @return\ "M\u00E1ma\ u\u017E\ ti\ nic\ ned\u00E1.",\ pokud\ nen\u00ED\ mo\u017En\u00E9\ od\ n\u00ED\ dostat\ pen\u00EDze\r\n
+comment3.params=item
+comment3.target=java.lang.String\ onBuy(java.lang.String)
+comment3.text=\r\n\ Metoda\ je\ zde\ pouze\ z\ toho\ d\u016Fvodu\ \u017Ee\ t\u0159\u00EDda\ extenduje\ postavy.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Metoda\ slou\u017E\u00ED\ k\ navr\u00E1cen\u00ED\ jm\u00E9na\ postavy.\r\n\ \r\n\ @return\ jm\u00E9no\r\n
+comment5.params=item
+comment5.target=boolean\ sellsItem(java.lang.String)
+comment5.text=\r\n\ Metoda\ ud\u00E1v\u00E1\ zda\ postava\ prod\u00E1v\u00E1\ p\u0159edm\u011Bt.\r\n\ \r\n\ @param\ instance\ p\u0159edm\u011Btu\r\n\ @return\ {@code\ false},\ pokud\ ho\ neprod\u00E1v\u00E1;\ {@code\ true},\ pokud\ se\ prod\u00E1v\u00E1\r\n
+numComments=6

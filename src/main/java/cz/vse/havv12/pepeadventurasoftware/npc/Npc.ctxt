@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Npc
+comment0.text=\r\n\ Abstraktn\u00ED\ t\u0159\u00EDda,\ definuje\ z\u00E1kladn\u00ED\ atributy,\ ka\u017Ed\u00E9\ postavy\ <i>jm\u00E9no<i>.\r\n\ \r\n
+comment1.params=name
+comment1.target=Npc(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ vytv\u00E1\u0159\u00ED\ instanci\ t\u0159\u00EDdy\ postavy\ a\ p\u0159i\u0159azuje\ j\u00ED\ jm\u00E9no.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ jm\u00E9no\ postavy.\r\n\ \r\n\ @return\ jm\u00E9no\r\n
+comment3.params=item
+comment3.target=boolean\ sellsItem(java.lang.String)
+comment3.text=\r\n\ Metoda\ zji\u0161\u0165uje\ zda\ dan\u00E1\ postava\ pord\u00E1v\u00E1\ dan\u00FD\ p\u0159edm\u011Bt.\r\n
+comment4.params=
+comment4.target=java.lang.String\ onTalk()
+comment4.text=\r\n\ Metoda\ umo\u017E\u0148uje\ hr\u00E1\u010Di\ mluvit\ s\ postavou.\r\n
+comment5.params=item
+comment5.target=java.lang.String\ onBuy(java.lang.String)
+comment5.text=\r\n\ Metoda\ umo\u017E\uFFFD?uje\ hr\u00E1\u010Di\ koupit\ p\u0159edm\u011Bt.\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Table
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ st\u016Fl\ v\ adventu\u0159e.\r\n\ Dr\u017E\u00ED\ si\ odkaz\ na\ hru\ a\ odkaz\ na\ pepehoSwitch.\r\n\ \r\n\ @author\ \ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-08\r\n
+comment1.params=name\ description\ pickable\ usable\ combinable\ searchable\ pepehoSwitch
+comment1.target=Table(java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ PepehoSwitch)
+comment1.text=\r\n\ Konstruktor\ vytvo\u0159\u00ED\ instanci\ stolu.\r\n
+comment2.params=
+comment2.target=java.lang.String\ onUse()
+comment3.params=
+comment3.target=java.lang.String\ onSearch()
+comment3.text=\r\n\ \r\n
+comment4.params=item
+comment4.target=java.lang.String\ onCombine(Item)
+numComments=5

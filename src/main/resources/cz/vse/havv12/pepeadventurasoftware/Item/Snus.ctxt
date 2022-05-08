@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Snus
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ snus\ v\ adventu\u0159e.\r\n\ Dr\u017E\u00ED\ si\ odkaz\ na\ hru.\r\n\ \r\n\ @author\ \ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-09\r\n
+comment1.params=name\ description\ pickable\ usable\ combinable\ searchable
+comment1.target=Snus(java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Konstruktor\ vytv\u00E1\u0159\u00ED\ instanci\ snusu.\r\n
+comment2.params=
+comment2.target=java.lang.String\ onUse()
+comment2.text=\r\n\ Metoda\ zaji\u0161\u0165uje,\ \u017Ee\ po\ pou\u017Eit\u00ED\ snusu\ dojde,\ k\ jeho\ odebr\u00E1n\u00ED\ z\ invent\u00E1\u0159e\ a\ k\ jeho\ aktivaci\ v\ healthBaru.\r\n\ \r\n\ @return\ String\r\n
+comment3.params=
+comment3.target=java.lang.String\ onSearch()
+comment4.params=item
+comment4.target=java.lang.String\ onCombine(Item)
+numComments=5

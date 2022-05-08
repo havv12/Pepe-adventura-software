@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShopKeeper
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ porodava\u010Dku\ v\ adventu\u0159e.\r\n\ Dr\u017E\u00ED\ si\ odkaz\ na\ hru.\r\n\ Vytv\u00E1\u0159\u00ED\ mapu\ p\u0159edm\u011Bt\u016F,\ s\ n\u00E1zvem\ p\u0159edm\u011Btu\ jako\ kl\u00ED\u010Dem\ a\ cenou\ p\u0159edm\u011Bt\u016F\ jako\ hodnotou.\ \r\n\r\n\ @author\ \ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-08\r\n
+comment1.params=name\ pepe
+comment1.target=ShopKeeper(java.lang.String,\ game.Player)
+comment1.text=\r\n\ Konstruktor\ vytv\u00E1\u0159\u00ED\ instanci\ prodava\u010Dky\ a\ d\u00E1v\u00E1\ j\u00ED\ odkaz\ na\ hru.\r\n
+comment2.params=
+comment2.target=java.lang.String\ onTalk()
+comment2.text=\r\n\ Metoda\ ur\u010Duje\ co\ se\ stane,\ pokud\ bude\u0161\ mluvit\ s\ prodava\u010Dkou.\r\n\ \r\n\ @return\ String\r\n
+comment3.params=item
+comment3.target=boolean\ sellsItem(java.lang.String)
+comment3.text=\r\n\ Metoda\ vrac\u00ED,\ zda\ je\ p\u0159edm\u011Bt,\ kter\u00FD\ chceme\ koupit\ na\ prodej.\r\n\ \r\n\ @param\ instance\ p\u0159em\u011Btu\r\n\ @return\ instance\ p\u0159edm\u011Btu\r\n
+comment4.params=itemName
+comment4.target=java.lang.String\ onBuy(java.lang.String)
+comment4.text=\r\n\ Metoda\ zaji\u0161\u0165uje\ obchod\ s\ prodava\u010Dkou\ a\ vytv\u00E1\u0159\u00ED\ p\u0159edm\u011Bty,\ kter\u00E9\ si\ kupujeme.\r\n\ \r\n\ @param\ instance\ p\u0159edm\u011Btu\r\n\ @return\ p\u0159edm\u011Bt,kter\u00FD\ sis\ koupil\ a\ cenu,\ kterou\ jsi\ za\ n\u011Bj\ zaplatil.\r\n
+numComments=5

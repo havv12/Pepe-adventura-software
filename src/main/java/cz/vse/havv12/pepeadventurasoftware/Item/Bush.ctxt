@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bush
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ ke\u0159\ v\ adventu\u0159e.\r\n\ Dr\u017E\u00ED\ si\ odkaz\ na\ hru\ a\ jojo.\r\n\ \r\n\ @author\ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-07\r\n
+comment1.params=name\ description\ pickable\ usable\ combinable\ searchable\ jojo
+comment1.target=Bush(java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ Jojo)
+comment1.text=\r\n\ Konstruktor\ vytvo\u0159\u00ED\ instanci\ ke\u0159e.\r\n
+comment2.params=
+comment2.target=java.lang.String\ onUse()
+comment3.params=
+comment3.target=java.lang.String\ onSearch()
+comment3.text=\r\n\ Metoda\ odebere,\ jojo\ z\ ke\u0159e\ a\ d\u00E1\ ho\ do\ aktu\u00E1ln\u00ED\ lokace.\r\n\ \r\n\ @return\ String\ na\u0161el\ jsi\ jojo,\ pokud\ je\ jojo\ v\ ke\u0159i\r\n\ @return\ String\ nic\ jsi\ nena\u0161el,\ pokud\ nen\u00ED\ v\ ke\u0159i\r\n
+comment4.params=item
+comment4.target=java.lang.String\ onCombine(Item)
+numComments=5

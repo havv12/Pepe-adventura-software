@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuj\u00EDc\u00ED\ Pepeho\ pozornost.\ \r\n\ Ve\u0161ker\u00E9\ informaci\ t\u00FDkaj\u00EDc\u00ED\ se\ Pepeho\ pozornosti\ jsou\ ulo\u017Eeny\ zde,\ pomoc\u00ED\ datov\u00FDch\ atribut\u016F.\r\n\ Datov\u00FD\ atribut\ limit,\ slou\u017E\u00ED\ k\ nastaven\u00ED\ maxim\u00E1ln\u00ED\ hodnoty\ hr\u00E1\u010De.\r\n\ \r\n\ @author\ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-08\r\n
+comment1.params=health
+comment1.target=HealthBar(int)
+comment1.text=\r\n\ Konstruktor,\ p\u0159i\ vytvo\u0159en\u00ED\ hr\u00E1\u010De,\ nastav\u00ED\ maxim\u00E1ln\u00ED\ mno\u017Estv\u00ED\ pozornosti\ na\ aktu\u00E1ln\u00ED\ mno\u017Estv\u00ED\ pozornosti.\r\n
+comment2.params=addHealth
+comment2.target=java.lang.String\ addHp(int)
+comment2.text=\r\n\ Metoda\ slou\u017E\u00ED\ k\ p\u0159id\u00E1v\u00E1n\u00ED\ pozornosti.\r\n\ \r\n\ @param\ mno\u017Estv\u00ED\ p\u0159idan\u00E9\ pozornosti\r\n\ @return\ mno\u017Estv\u00ED\ pozornosti\ po\ p\u0159id\u00E1n\u00ED\r\n
+comment3.params=reduceHealth
+comment3.target=java.lang.String\ reduceHp(int)
+comment3.text=\r\n\ Metoda\ slou\u017E\u00ED\ k\ odeb\u00EDr\u00E1n\u00ED\ pozornosti.\r\n\ \r\n\ @param\ mno\u017Estv\u00ED\ odebran\u00E9\ pozornosti\r\n\ @return\ mno\u017Estv\u00ED\ pozornosti\ po\ odebr\u00E1n\u00ED\r\n
+comment4.params=activated
+comment4.target=void\ setSnusActive(boolean)
+comment4.text=\r\n\ Metoda\ slou\u017E\u00EDc\u00ED\ ke\ kontrole\ toho,\ zda\ je\ p\u0159edm\u011Bt\ Snus\ aktivn\u00ED\ a\ pokud\ ano\ nastav\u00ED\ snusDurability.\r\n\ \r\n\ @param\ {@code\ true}\ pokud\ je\ p\u0159edm\u011Bt\ aktivn\u00ED;{@code\ false}\ pokud\ nen\u00ED\ aktivn\u00ED\r\n
+comment5.params=
+comment5.target=int\ getHp()
+numComments=6

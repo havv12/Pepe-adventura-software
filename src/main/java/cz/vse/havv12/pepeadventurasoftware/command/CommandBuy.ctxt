@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandBuy
+comment0.text=\r\n\ T\u0159\u00EDda\ implementuje\ rozhran\u00ED\ ICommand.\r\n\ T\u0159\u00EDda\ se\ pou\u017E\u00EDv\u00E1\ ke\ kupov\u00E1n\u00ED\ p\u0159edm\u011Bt\u016F..\r\n\ Dr\u017E\u00ED\ si\ odkaz\ na\ hru.\r\n\ @author\ \ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-08\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=game
+comment2.target=CommandBuy(game.GameWorld)
+comment3.params=parameters
+comment3.target=java.lang.String\ execute(java.lang.String[])
+numComments=4

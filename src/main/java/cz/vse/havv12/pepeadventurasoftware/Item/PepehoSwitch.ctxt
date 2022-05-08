@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PepehoSwitch
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuje\ pepehoSwitch\ v\ adventu\u0159e.\r\n\ Dr\u017E\u00ED\ si\ odkaz\ na\ hru.\r\n\ M\u00E1\ atribut\ po\u010Det\ her.\r\n\ \r\n\ @author\ \ V\u00E1clav\ Havl\u00EDk\r\n\ @version\ ZS-2022,\ 2022-01-09\r\n
+comment1.params=name\ description\ pickable\ usable\ combinable\ searchable\ hb\ inv
+comment1.target=PepehoSwitch(java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ game.HealthBar,\ game.Inventory)
+comment1.text=\r\n\ Konsturkotr\ vytvo\u0159\u00ED\ instanci\ pepehoSwitche\ a\ nastav\u00ED\ po\u010Det\ her\ na\ 0;\r\n
+comment2.params=
+comment2.target=java.lang.String\ onUse()
+comment2.text=\r\n\ Metoda\ ode\u010Dte\ 1\ z\ po\u010Dtu\ her\ po\ ka\u017Edem\ pou\u017Eit\u00ED\ a\ p\u0159id\u00E1\ jednu\ pozornost,\ pokud\ na\ n\u011Bm\ nejsou\ \u017E\u00E1dn\u00E9\ hry\ vyp\u00ED\u0161e\ se\ string.\r\n\ \r\n\ @return\ p\u0159id\u00E1\ pozornost,\ pokud\ je\ po\u010Det\ her\ v\u011Bt\u0161\u00ED\ ne\u017E\ nula.\r\n\ @return\ String,\ pokud\ na\ Switchi\ nejsou\ \u017E\u00E1dn\u00E9\ hry\r\n
+comment3.params=
+comment3.target=java.lang.String\ onSearch()
+comment4.params=item
+comment4.target=java.lang.String\ onCombine(Item)
+comment4.text=\r\n\ Metoda\ zkontroluje,\ zda\ jdou\ p\u0159edm\u011Bty\ spojit.\r\n\ \r\n\ @param\ instance\ itemu\r\n\ @return\ p\u0159edm\u011Bty\ nelze\ spojit,\ pokud\ nejde\ spojit\r\n\ @return\ p\u0159edm\u011Bty\ byly\ spojeny\r\n
+numComments=5
